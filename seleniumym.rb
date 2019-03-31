@@ -1,5 +1,3 @@
-ENV["SSL_CERT_FILE"] = "./cacert.pem"
-
 require 'selenium-webdriver' 
 require 'open-uri'
 require 'csv'
